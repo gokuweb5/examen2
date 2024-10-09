@@ -1,0 +1,162 @@
+[
+    {
+        "question": "¿Quién inventó Java?",
+        "choice1": "Ryan Gosling",
+        "choice2": "James Gosling",
+        "choice3": "Dennis Ritchie",
+        "choice4": "Bjarne Stroustrup",
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es el resultado de la operación 5 + 3 * 2 en Java?",
+        "choice1": "16",
+        "choice2": "11",
+        "choice3": "10",
+        "choice4": "13",
+        "answer": 2
+    },
+    {
+        "question": "Si x = 5, ¿cuál es el valor de x después de ejecutar x++?",
+        "choice1": "4",
+        "choice2": "5",
+        "choice3": "6",
+        "choice4": "7",
+        "answer": 3
+    },
+    {
+        "question": "¿A qué equivale el operador += en Java?",
+        "choice1": "x = x - y",
+        "choice2": "x = x * y",
+        "choice3": "x = x / y",
+        "choice4": "x = x + y",
+        "answer": 4
+    },
+    {
+        "question": "¿Cuál es el resultado de la expresión (5 > 3) && (2 < 4) en Java?",
+        "choice1": "true",
+        "choice2": "false",
+        "choice3": "null",
+        "choice4": "undefined",
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es el resultado de la expresión 10 >= 10 en Java?",
+        "choice1": "true",
+        "choice2": "false",
+        "choice3": "null",
+        "choice4": "undefined",
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es el tipo de dato primitivo más adecuado para almacenar un número entero en Java?",
+        "choice1": "double",
+        "choice2": "boolean",
+        "choice3": "char",
+        "choice4": "int",
+        "answer": 4
+    },
+    {
+        "question": "¿En qué caso se pierde la parte decimal en Java?",
+        "choice1": "Casting de int a double",
+        "choice2": "Casting de double a int",
+        "choice3": "Casting de float a double",
+        "choice4": "Casting de long a int",
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la forma correcta de declarar una variable en Java?",
+        "choice1": "edad int = 30;",
+        "choice2": "30 = int edad;",
+        "choice3": "int = edad 30;",
+        "choice4": "int edad = 30;",
+        "answer": 4
+    },
+    {
+        "question": "¿Cómo se escribe un comentario de una línea en Java?",
+        "choice1": "/* Comentario */",
+        "choice2": "# Comentario",
+        "choice3": "<!-- Comentario -->",
+        "choice4": "// Comentario",
+        "answer": 4
+    },
+    {
+        "question": "¿Cuál es la estructura correcta de una sentencia if en Java?",
+        "choice1": "if condición { // código }",
+        "choice2": "if (condición) { // código }",
+        "choice3": "if (condición) // código",
+        "choice4": "if condición // código",
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la estructura correcta de una sentencia if-else en Java?",
+        "choice1": "if (condición) { // código } else { // código }",
+        "choice2": "if (condición) { // código } else // código",
+        "choice3": "if condición { // código } else { // código }",
+        "choice4": "if condición { // código } else // código",
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la estructura correcta de una sentencia if-else if en Java?",
+        "choice1": "if (condición1) { // código } else if (condición2) { // código } else { // código }",
+        "choice2": "if (condición1) { // código } else if (condición2) { // código }",
+        "choice3": "if (condición1) { // código } else { // código }",
+        "choice4": "if (condición1) { // código } else if (condición2) // código",
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la estructura correcta de un bucle while en Java?",
+        "choice1": "while condición { // código }",
+        "choice2": "while (condición) { // código }",
+        "choice3": "while (condición) // código",
+        "choice4": "while condición // código",
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la estructura correcta de un bucle do-while en Java?",
+        "choice1": "do { // código } while (condición);",
+        "choice2": "do { // código } while condición;",
+        "choice3": "do // código while (condición);",
+        "choice4": "do // código while condición;",
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la estructura correcta de un bucle for en Java?",
+        "choice1": "for inicialización; condición; incremento { // código }",
+        "choice2": "for (inicialización; condición; incremento) { // código }",
+        "choice3": "for (inicialización; condición; incremento) // código",
+        "choice4": "for inicialización; condición; incremento // código",
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la secuencia de escape para una nueva línea en Java?",
+        "choice1": "\\n",
+        "choice2": "\\t",
+        "choice3": "\\r",
+        "choice4": "\\b",
+        "answer": 1
+    },
+    {
+        "question": "¿Cómo se llama la mascota de Java?",
+        "choice1": "Java",
+        "choice2": "Javvy",
+        "choice3": "Duke",
+        "choice4": "Jax",
+        "answer": 3
+    },
+    {
+        "question": "¿Por qué se dice que Java es multiplataforma?",
+        "choice1": "Porque es un lenguaje interpretado",
+        "choice2": "Porque es un lenguaje compilado",
+        "choice3": "Porque es un lenguaje de scripting",
+        "choice4": "Porque puede ejecutarse en cualquier sistema operativo con una JVM",
+        "answer": 4
+    },
+    {
+        "question": "¿Para qué sirve la clase Scanner en Java?",
+        "choice1": "Para imprimir en la consola",
+        "choice2": "Para manejar excepciones",
+        "choice3": "Para leer la entrada del usuario",
+        "choice4": "Para crear interfaces gráficas",
+        "answer": 3
+    }
+]
